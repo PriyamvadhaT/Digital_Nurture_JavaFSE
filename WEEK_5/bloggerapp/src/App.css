@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 8px;
+  padding: 8px;
+  border: 1px solid #ddd;
+  width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+h2 {
+  color: #2c3e50;
+}
